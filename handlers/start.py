@@ -13,37 +13,30 @@ async def start_(client: Client, message: Message):
         photo=f"{START_IMG}",
         caption=f""" ** Hey {message.from_user.mention()} , ⚔️\n\n
 ๏ This is [{bn}](t.me/{bu})
-➻ 👑Official Account🖤
-💟Wish Me On 15 August 🎂
-⚡My Life My Rules💪
-🎶Music ka Diwana💥
-🕉️Mahadev Bhakt🕉️
-♍I’m not Rich ßut I’m Royal 👑
-🌹Loyal and trustable Boy👩‍❤️‍👨
-☺️My Freinds are my World 💗.
+➻ #ʏᴇ ᴊσ ᴛυᴍ ɪᴛɴᴇ #ᴘᴀʏᴀʀᴇ ʜσ.!🔥👅💋🥵ᴍ*ᴅʜ*ʀ #çʜ **ᴅ🖕ᴋσυղ sᴇ ʜᴀᴍᴀяᴇ ʜσ...☠️✨🥀.
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🫶🏻 by : [𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀❤️‍🔥](https://t.me/MT_LEXTUS_XD) ** """,
+➻ Made 🫶🏻 by : [𝐈𝛕ᷟ͢𝚣⃪ꙴ 𓄂 ⃝⃪𝐂𝐇𝐎𝐂𝐇𝐎𝐋𝐈𝐓𝐘🍫𝐁𝐎𝐈](https://t.me/ll_Ur_Chocolaty_ll) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✚Add Me To Your Group✚  ", url=f"https://t.me/MOON_X_MUSIC_BOT?startgroup=true"
+                        "✚Add Me To Your Group✚  ", url=f"https://t.me/CHOCOLATY_OWNER_MUSIC_BOT?startgroup=true"
                        ),
                  ],[
                     InlineKeyboardButton(
-                        "⚔️ Support My Channel  ", url=f"https://t.me/AASHIYANA_MERA"
+                        "⚔️ Support My Channel  ", url=f"https://t.me/ABOUT_CHOCOLATY"
                     ),
                     InlineKeyboardButton(
-                        "⚔️ Support My Group ", url=f"https://t.me/COOKIE_WORLD"
+                        "⚔️ Support My Group ", url=f"https://t.me/CHOCOLATY_SPAMER"
                     )
                   ],[
                     InlineKeyboardButton(
-                        "👤 Real Owner ", url=f"https://t.me/MT_LEXTUS_XD"
+                        "👤 Real Owner ", url=f"https://t.me/ll_Ur_Chocolaty_ll"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/MT_LEXTUS_XD"
+                        "👨‍💻 Developer ", url=f"https://t.me/ll_Ur_Chocolaty_ll"
                     ),
                   ],[
                     InlineKeyboardButton(
