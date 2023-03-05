@@ -20,12 +20,12 @@ I 💖 Love you, Dear,  #Have a Sweet Day Baby,🍫🍫   .
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🫶🏻 by : [ᴍ᭄ꦿⁱˢˢ🎧༎Ⓒʰ🅞C̆̈O̶ʟᵃT🄴 G᭄ꦿ ι ❥ ⁪⁬⁮⁮⁮⁮ ‌‌‌‌](https://t.me/ll_its_me_Chocolaty_ll) ** """,
+➻ Made 🫶🏻 by :⏤͟͞𝐂ᥫ᭡፝֟𝐖™✘𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓⏤͟͞  ι ❥ ⁪⁬⁮⁮⁮⁮ ‌‌‌‌](https://t.me/ll_its_me_Chocolaty_ll) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✚Add Me To Your Group✚  ", url=f"https://t.me/ll_CHOCOLATY_MUSIC_ll_BOT?startgroup=true"
+                        "✚Add Me To Your Group✚  ", url=f"https://t.me/CHOCOLATY_CW_MUSIC_BOT?startgroup=true"
                        ),
                  ],[
                     InlineKeyboardButton(
