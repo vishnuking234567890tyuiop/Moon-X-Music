@@ -13,14 +13,16 @@ async def start_(client: Client, message: Message):
         photo=f"{START_IMG}",
         caption=f""" ** Hey {message.from_user.mention()} , ⚔️\n\n
 ๏ This is [{bn}](t.me/{bu})
-➻#मीठा Intezar⌚️# और Intezar⌚️ से भी #DiL💓दार मीठा#,❤️
-मीठा DiL💓दार# और DiL💓दार से भी #pyar मीठा#,
-मीठा Pyar_Aur प्यार से भी #मीठी आपकी Mohabbat…
-I 💖 Love you, Dear,  #Have a Sweet Day Baby,🍫🍫   .
+➻◈━━━━━━⸙━━━━━━◈
+   ❥✨𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘✨        
+◈━━━━━━━━━━━━━◈
+┏━━━━━━━━━━━━━━◈
+┣ ❥𝐎ᴡɴᴇʀ :- @ll_ur_Chocolaty_ll🍫
+┗━━━━━━━━━━━━━━◈,🍫🍫   .
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🫶🏻 by :⏤͟͞𝐂ᥫ᭡፝֟𝐖™✘𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓⏤͟͞  ι ❥ ⁪⁬⁮⁮⁮⁮ ‌‌‌‌](https://t.me/ll_its_me_Chocolaty_ll) ** """,
+➻ Made 🫶🏻 by :⏤✨𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘✨  ι ❥ ⁪⁬⁮⁮⁮⁮ ‌‌‌‌](https://t.me/ll_ur_Chocolaty_ll) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -36,10 +38,10 @@ I 💖 Love you, Dear,  #Have a Sweet Day Baby,🍫🍫   .
                     )
                   ],[
                     InlineKeyboardButton(
-                        "👤 Real Owner ", url=f"https://t.me/ll_its_me_Chocolaty_ll"
+                        "👤 Real Owner ", url=f"https://t.me/ll_ur_Chocolaty_ll🍫"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/ll_its_me_Chocolaty_ll"
+                        "👨‍💻 Developer ", url=f"https://t.me/ll_ur_Chocolaty_ll🍫"
                     ),
                   ],[
                     InlineKeyboardButton(
